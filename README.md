@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Hi! 👋 I'm Tran Thi Bich Tuyen.
+- 🌿 I'm on a journey to become a professional in data analytics, using my skills to solve real-world problems and make informed decisions based on data.
+- Thank you for visiting! I'm excited to connect with fellow data enthusiasts and professionals in the field. 😊
